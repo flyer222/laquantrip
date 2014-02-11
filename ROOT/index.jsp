@@ -65,8 +65,8 @@
 					<li><a id="current" href="#">Home</a></li>
 					<li><a href="#">相册</a>
 						<ul>
-							<li><a href="about.html">About Us</a></li>
-							<li><a href="services.html">Services</a></li>
+							<li><a href="about.html">最热门的</a></li>
+							<li><a href="services.html">收藏最多</a></li>
 							<li><a href="testimonials.html">Testimonials</a></li>
 							<li><a href="pricing_tables.html">Pricing Table</a></li>
 							<li><a href="shortcodes.html">Shortcodes</a></li>
@@ -90,7 +90,7 @@
 						</ul>
 					</li>
 					<li><a href="blog.html">Blog</a></li>
-					<li><a href="login.jsp">Login</a></li>
+					<li><a href="login.jsp">登陆</a></li>
 				  </ul>
 				</div>		
 	
